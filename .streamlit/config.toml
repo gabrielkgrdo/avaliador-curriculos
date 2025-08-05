@@ -3,8 +3,8 @@ maxUploadSize = 1028
 
 [theme]
 base="dark"
-primaryColor="#4CAF50"
-backgroundColor="#000000ff"
+primaryColor="#f03737ff"
+backgroundColor="#ffffffff"
 secondaryBackgroundColor="#F0F2F6"
-textColor="#000000"
+textColor="#000000ff"
 font="sans serif"
